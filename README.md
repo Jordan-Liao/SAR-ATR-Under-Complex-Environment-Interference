@@ -54,15 +54,29 @@ If you find this work helpful for your research, please kindly consider citing o
 
 | Year | Venue | Topic | Scope | Survey Title | Link |
 |:---:|:---:|:---|:---:|:---|:---|
+| 1996 | SPIE | vehicle features | Tradition | MSTAR Extended Operating Conditions A Tutorial | [Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/2757/0000/MSTAR-extended-operating-conditions-a-tutorial/10.1117/12.242059.short) |
+| 2004 | - | ship detection | Tradition | The state-of-the-art in ship detection in synthetic aperture radar imagery | [Link](https://apps.dtic.mil/sti/pdfs/ADA426096.pdf) |
+| 2008 | Signal Processing | detection | Tradition | Study on target detection in SAR image: A survey | [Link](https://kns.cnki.net/kcms2/article/abstract?v=rr6VKxMbACpaXeZTFzm2FijKjeIj5NIfMFnEL597x2oDiAUQlTFLrb34BeFvCg9kgWwXeReb9JW6tNogI_cqIRkLkEKQCVkDDjgeIO92wr34XKmKfFc9fohgTCjZBTcqHHeP67owPIFMWoRkhk0hhVpy-G8X6FhvADJXhF_gMj2cStBALrdg4A) |
+| 2009 | Signal Processing | discrimination | Tradition | Study on Target Discrimination in SAR Images: A Survey | [Link](https://kns.cnki.net/kcms2/article/abstract?v=rr6VKxMbACrqpyQTnmd_tz0klT8QM4DAvu32R_agkQR1APPbl7QT0J7OwdHSazkeu2HsgkK3Jvhb1uPJsWiHDfCWC1ELlTHDMSMuijKm3FNrvZcPjvGmcVheEXp4A9Ig8tv4dBLjCahWQVtwdrhk430DO0hOEYnsd1nlt2O3LIyYozgo1IDrzw) |
+| 2013 | JARS | CFAR detection | Tradition | Target detection in synthetic aperture radar imagery: A state-of-the-art survey | [Link](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-7/issue-1/071598/Target-detection-in-synthetic-aperture-radar-imagery--a-state/10.1117/1.JRS.7.071598.short) |
+| 2016 | IEEE Access | holistic SAR ATR system perspective | Tradition | Automatic Target Recognition in Synthetic Aperture Radar Imagery: A state-of-the-art review | [Link](https://ieeexplore.ieee.org/abstract/document/7572958/) |
+| 2018 | IEEE GRSM | vehicle classification | Tradition | A review of the autoencoder and its variants: A comparative perspective from target recognition in synthetic-aperture radar images | [Link](https://ieeexplore.ieee.org/abstract/document/8474425/) |
+| 2020 | Journal of Radars | detection | Tradition+DL | Survey of Research Progress on Target Detection and Discrimination of Single-channel SAR Images for Complex Scenes | [Link](https://radars.ac.cn/en/article/doi/10.12000/JR19104) |
 | 2020 | J. Radars | Aircraft detection/recognition | Tradition+DL | Research progress on aircraft detection and recognition in SAR imagery | [Link](https://radars.ac.cn/en/article/doi/10.12000/JR20020) |
 | 2020 | Signal Proc. | Robustness against attacks | DL | Robustness of SAR Ship Recognition CNN based on Adversarial Attacks | [Link](https://signal.ejournal.org.cn/cn/article/doi/10.16798/j.issn.1003-0530.2020.12.002) |
+| 2021 | IEEE GRSM | Deep learning in SAR (general) | DL | Deep Learning Meets SAR: Concepts, Models, Pitfalls, and Perspectives | [Link](https://doi.org/10.1109/MGRS.2020.3046356) |
+| 2021 | AESM | classificaition on MSTAR | Tradition+DL | Automatic target recognition on synthetic aperture radar imagery: A survey | [Link](https://ieeexplore.ieee.org/abstract/document/9374668/) |
+| 2022 | RS | ship detection | Tradition+DL | Deep Learning for SAR Ship Detection Past, Present and Future | [Link](https://www.mdpi.com/2072-4292/14/11/2712) |
+| 2023 | Soft Computer | ship detection | DL | Ship Detection Based on Deep Learning Using SAR Imagery: A Systematic Literature Review | [Link](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=14327643&AN=161102520&h=R%2BgAO8ofQALQXOu52goDmFpyXsesp3fEjz%2BhheeozY7sw5bxjzhGPUL%2FKAabjNZwBYhlm3Iq7LVo09q1mjkKDw%3D%3D&crl=c) |
+| 2023 | Journal of Radars | aircraft detection and classification | DL | Intelligent Technology for Aircraft Detection and Recognition through SAR Imagery: Advancements and Prospects | [Link](https://radars.ac.cn/en/article/doi/10.12000/JR23056) |
+| 2023 | RS | detection and classification | DL | A Comprehensive Survey on SAR ATR in Deep-Learning Era | [Link](https://www.mdpi.com/2072-4292/15/5/1454) |
 | 2024 | J. Radars | Adversarial attacks (Digital to Physical) | DL | SAR Target Recognition Adversarial Attack: From Digital Domain to Physical Domain | [Link](https://radars.ac.cn/cn/article/doi/10.12000/JR24142) |
-<<<<<<< HEAD
-| 2021 | Acta Auto. Sin. | Deep domain adaptation | DL | Deep Domain Adaptation: General and Complex Cases | [Link]((http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200238?viewType=HTML)) |
-=======
-| 2021 | Acta Auto. Sin. | Deep domain adaptation | DL | Deep Domain Adaptation: General and Complex Cases | [Link](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200238?viewType=HTML) |
->>>>>>> e096ac1de1a169ca6bc2d0775b765d5cd99e4617
-| 2024 | IEEE TNNLS | Transfer adaptation learning | DL | Transfer Adaptation Learning: A Decade Survey | [Link](https://doi.org/10.1109/TNNLS.2022.3183326) |
+| 2024 | IEEE Jstar | ship detection | Tradition+DL | Ship detection with SAR C-Band satellite images: A systematic review | [Link](https://ieeexplore.ieee.org/abstract/document/10620443/) |
+| 2025 | IEEE Jstar | detection and classification | DL | Recent Advances in Deep Learning based SAR Image Targets Detection and Recognition | [Link](https://ieeexplore.ieee.org/abstract/document/10892079/) |
+| 2025 | IEEE Jstar | dual perspective for detection and classification | Tradition+DL | Review of synthetic aperture radar automatic target recognition: A dual perspective on classical and deep learning techniques | [Link](https://ieeexplore.ieee.org/abstract/document/11082447/) |
+| 2025 | Ours | fifty evolution<br>of SAR ATR | Tradition+DL | Fifty Years of SAR Automatic Target Recognition The Road Forward | - |
+
+
 
 -----
 
