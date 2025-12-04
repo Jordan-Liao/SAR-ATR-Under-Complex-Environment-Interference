@@ -15,7 +15,7 @@ If you find this work helpful for your research, please kindly consider citing o
 @article{liao2025deepneuralnetworks,
       title={Deep Learning for SAR ATR in Complex Environmental Interference: A Systematic Review},
       author={Liao, Jinrui and Wang, Qingsong and Lai, Tao and Yang, Chengran and Huang, Haifeng},
-      journal={Journal of Radars (Under Review/Published)}, 
+      journal={XXX (Under Review/Published)}, 
       year={2025},
       url={}, 
       doi={}
