@@ -254,3 +254,4 @@ If you find this work helpful for your research, please kindly consider citing o
   - **Key Works:** [EMI-Net](https://doi.org/10.1109/TGRS.2024.3362334), [EMWaveNet](https://www.google.com/search?q=https://doi.org/10.1109/TGRS.2025.3557705), [Physics Inspired Hybrid Attention](https://doi.org/10.1016/j.isprsjprs.2023.12.004).
 
 
+
