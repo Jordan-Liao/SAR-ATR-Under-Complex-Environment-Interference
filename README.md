@@ -86,7 +86,7 @@ If you find this work helpful for your research, please kindly consider citing o
 | Year | Dataset | Targets | Size | Res. (m) | Band | Note | Link |
 |:---:|:---|:---:|:---:|:---:|:---:|:---|:---|
 | 2006 | **Sandia MiniSAR** | 1 | 224 | 0.1 | Ku | Urban/Desert vehicles | [Link](https://www.sandia.gov/radar/pathfinder-radar-isr-and-synthetic-aperture-radar-sar-systems/complex-data/) |
-| 2018 | **SSDD** | $\ge$1 | 214\~668 | 1\~15 | C/X | Benchmark ship detection | [Link](https://doi.org/10.11999/JEIT180050) |
+| 2018 | **SSDD** | 1 | 214\~668 | 1\~15 | C/X | Benchmark ship detection | [Link](https://doi.org/10.11999/JEIT180050) |
 | 2019 | **AIR-SARShip** | 1 | 512\~1K | 1\~3 | C | High-resolution ship | [Link](https://doi.org/10.12000/JR19097) |
 | 2019 | **SAR-Ship** | 1 | 256 | 3\~25 | C | Complex scenes | [Link](https://www.mdpi.com/2072-4292/11/7/765) |
 | 2020 | **HRSID** | 1 | 800 | 0.5\~3 | C/X | Instance segmentation ships | [Link](https://doi.org/10.1109/ACCESS.2020.3005861) |
