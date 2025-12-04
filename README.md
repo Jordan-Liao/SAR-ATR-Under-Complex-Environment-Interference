@@ -76,30 +76,30 @@ If you find this work helpful for your research, please kindly consider citing o
 | 2017 | **OpenSARShip** | 14 | 10 | 9\~445 | C | Fine-grained ship slices | [Link](https://doi.org/10.1109/JSTARS.2017.2755672) |
 | 2017 | **MGTD** | 4 | 5 | - | - | Weak environment correlation | [Link](https://doi.org/10.1117/12.2277914) |
 | 2019 | **SAMPLE** | 10 | 2 | 128 | X | Simulation and measured vehicle | [Link](https://doi.org/10.1117/12.2523460) |
-| 2019 | **FUSAR-Ship 1.0** | $\ge$15 | $\ge$3 | 512 | C | High-resolution ship classification | [Link](https://doi.org/10.1007/s11432-019-2772-5) |
+| 2019 | **FUSAR-Ship 1.0** | 15 | 3 | 512 | C | High-resolution ship classification | [Link](https://doi.org/10.1007/s11432-019-2772-5) |
 | 2022 | **SAR-ACD** | 6 | 14 | - | - | Spaceborne fine-grained aircraft | [Link](https://doi.org/10.1109/TGRS.2022.3166174) |
 | 2025 | **NUDT4MSTAR** | 40 | 5 | 128 | X, Ku | Large-scale multi-class vehicle | [Link](https://doi.org/10.16356/j.1005-2615.2022.05.022) |
-| 2025 | **FAIR-CSAR** | 5 | $\ge$32 | 800 | C | Single-Look Complex (SLC) dataset | [Link](https://data.nasa.gov/dataset/sentinel-1-single-look-complex-slc-bursts) |
+| 2025 | **FAIR-CSAR** | 5 | 32 | 800 | C | Single-Look Complex (SLC) dataset | [Link](https://data.nasa.gov/dataset/sentinel-1-single-look-complex-slc-bursts) |
 
 ## SAR Target Detection Datasets
 
 | Year | Dataset | Targets | Size | Res. (m) | Band | Note | Link |
 |:---:|:---|:---:|:---:|:---:|:---:|:---|:---|
-| 2006 | **Sandia MiniSAR** | $\ge$1 | 224 | 0.1 | Ku | Urban/Desert vehicles | [Link](https://www.sandia.gov/radar/pathfinder-radar-isr-and-synthetic-aperture-radar-sar-systems/complex-data/) |
+| 2006 | **Sandia MiniSAR** | 1 | 224 | 0.1 | Ku | Urban/Desert vehicles | [Link](https://www.sandia.gov/radar/pathfinder-radar-isr-and-synthetic-aperture-radar-sar-systems/complex-data/) |
 | 2018 | **SSDD** | $\ge$1 | 214\~668 | 1\~15 | C/X | Benchmark ship detection | [Link](https://doi.org/10.11999/JEIT180050) |
-| 2019 | **AIR-SARShip** | $\ge$1 | 512\~1K | 1\~3 | C | High-resolution ship | [Link](https://doi.org/10.12000/JR19097) |
-| 2019 | **SAR-Ship** | $\ge$1 | 256 | 3\~25 | C | Complex scenes | [Link](https://www.mdpi.com/2072-4292/11/7/765) |
-| 2020 | **HRSID** | $\ge$1 | 800 | 0.5\~3 | C/X | Instance segmentation ships | [Link](https://doi.org/10.1109/ACCESS.2020.3005861) |
-| 2020 | **LS-SSDD** | $\ge$1 | 800 | 5x20 | L | Large scene small ship | [Link](https://doi.org/10.3390/rs12182997) |
-| 2021 | **DSSDD** | $\ge$1 | - | - | - | Dual-Polarimetric Ship Detection | [Link](https://doi.org/10.3390/s21248478) |
+| 2019 | **AIR-SARShip** | 1 | 512\~1K | 1\~3 | C | High-resolution ship | [Link](https://doi.org/10.12000/JR19097) |
+| 2019 | **SAR-Ship** | 1 | 256 | 3\~25 | C | Complex scenes | [Link](https://www.mdpi.com/2072-4292/11/7/765) |
+| 2020 | **HRSID** | 1 | 800 | 0.5\~3 | C/X | Instance segmentation ships | [Link](https://doi.org/10.1109/ACCESS.2020.3005861) |
+| 2020 | **LS-SSDD** | 1 | 800 | 5x20 | L | Large scene small ship | [Link](https://doi.org/10.3390/rs12182997) |
+| 2021 | **DSSDD** | 1 | - | - | - | Dual-Polarimetric Ship Detection | [Link](https://doi.org/10.3390/s21248478) |
 | 2021 | **SRSDD** | 6 | 1024 | 1 | C | Rotated ship detection | [Link](https://doi.org/10.3390/rs13245104) |
-| 2022 | **SADD** | $\ge$1 | 224 | 0.5\~3 | X | Aircraft small sample | [Link](https://ieeexplore.ieee.org/document/9791234/) |
+| 2022 | **SADD** | 1 | 224 | 0.5\~3 | X | Aircraft small sample | [Link](https://ieeexplore.ieee.org/document/9791234/) |
 | 2022 | **LGSVOD** | 3 | - | - | - | Large scene military vehicle | [Link](https://doi.org/10.1109/ICIVC55077.2022.9887095) |
-| 2022 | **RSDD-SAR** | $\ge$1 | 512 | 1\~3 | C | Ship dataset | [Link](https://ieeexplore.ieee.org/servlet/Login?logout=/document/9127939/) |
-| 2022 | **MSAR** | $\ge$4 | 256\~2K | 1 | C | Terrestrial and maritime | [Link](https://radars.ac.cn/web/data/getData?dataType=MSAR) |
-| 2023 | **SAR-AIRcraft** | $\ge$7 | 512 | 1 | C | Fine-grained Aircraft | [Link](https://radars.ac.cn/web/data/getData%3FdataType%3DSAR-AIRcraft) |
-| 2023 | **SIVED** | $\ge$1 | 512 | 0.1\~0.3 | X/Ku/Ka | Rotatable vehicle | [Link](https://doi.org/10.3390/rs15112825) |
-| 2023 | **OGSOD** | $\ge$3 | 256 | 3 | C | Oil tanks, Bridges, Harbors | [link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13539/3057720/OGSOD-20--a-challenging-multimodal-benchmark-for-optical-SAR/10.1117/12.3057720.full) |
+| 2022 | **RSDD-SAR** | 1 | 512 | 1\~3 | C | Ship dataset | [Link](https://ieeexplore.ieee.org/servlet/Login?logout=/document/9127939/) |
+| 2022 | **MSAR** | 4 | 256\~2K | 1 | C | Terrestrial and maritime | [Link](https://radars.ac.cn/web/data/getData?dataType=MSAR) |
+| 2023 | **SAR-AIRcraft** | 7 | 512 | 1 | C | Fine-grained Aircraft | [Link](https://radars.ac.cn/web/data/getData%3FdataType%3DSAR-AIRcraft) |
+| 2023 | **SIVED** | 1 | 512 | 0.1\~0.3 | X/Ku/Ka | Rotatable vehicle | [Link](https://doi.org/10.3390/rs15112825) |
+| 2023 | **OGSOD** | 3 | 256 | 3 | C | Oil tanks, Bridges, Harbors | [link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13539/3057720/OGSOD-20--a-challenging-multimodal-benchmark-for-optical-SAR/10.1117/12.3057720.full) |
 | 2024 | **SARDet-100K** | 6 | 512 | 0.1\~25 | Multi | Large-scale COCO level | [Link](https://arxiv.org/abs/2403.10755) |
 | 2025 | **RSAR** | 6 | 512 | 0.1\~25 | Multi | Large-scale Rotated detection | [Link](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_RSAR_Restricted_State_Angle_Resolver_and_Rotated_SAR_Benchmark_CVPR_2025_paper.html) |
 
