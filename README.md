@@ -55,9 +55,9 @@ If you find this work helpful for your research, please kindly consider citing o
 | Year | Venue | Topic | Scope | Survey Title | Link |
 |:---:|:---:|:---|:---:|:---|:---|
 | 2020 | J. Radars | Aircraft detection/recognition | Tradition+DL | Research progress on aircraft detection and recognition in SAR imagery | [Link](https://radars.ac.cn/en/article/doi/10.12000/JR20020) |
-| 2020 | Signal Proc. | Robustness against attacks | DL | Robustness of SAR Ship Recognition CNN based on Adversarial Attacks | [Link](https://kns.cnki.net/kcms2/article/abstract?v=rr6VKxMbACpaXeZTFzm2FijKjeIj5NIfMFnEL597x2oDiAUQlTFLrb34BeFvCg9kgWwXeReb9JW6tNogI_cqIRkLkEKQCVkDDjgeIO92wr34XKmKfFc9fohgTCjZBTcqHHeP67owPIFMWoRkhk0hhVpy-G8X6FhvADJXhF_gMj2cStBALrdg4A) |
+| 2020 | Signal Proc. | Robustness against attacks | DL | Robustness of SAR Ship Recognition CNN based on Adversarial Attacks | [Link]([https://kns.cnki.net/kcms2/article/abstract?v=rr6VKxMbACpaXeZTFzm2FijKjeIj5NIfMFnEL597x2oDiAUQlTFLrb34BeFvCg9kgWwXeReb9JW6tNogI_cqIRkLkEKQCVkDDjgeIO92wr34XKmKfFc9fohgTCjZBTcqHHeP67owPIFMWoRkhk0hhVpy-G8X6FhvADJXhF_gMj2cStBALrdg4A](https://signal.ejournal.org.cn/cn/article/doi/10.16798/j.issn.1003-0530.2020.12.002)) |
 | 2024 | J. Radars | Adversarial attacks (Digital to Physical) | DL | SAR Target Recognition Adversarial Attack: From Digital Domain to Physical Domain | [Link](https://radars.ac.cn/cn/article/doi/10.12000/JR24142) |
-| 2021 | Acta Auto. Sin. | Deep domain adaptation | DL | Deep Domain Adaptation: General and Complex Cases | [Link](https://kns.cnki.net/kcms2/article/abstract?v=rr6VKxMbACpaXeZTFzm2FijKjeIj5NIfMFnEL597x2oDiAUQlTFLrb34BeFvCg9kgWwXeReb9JW6tNogI_cqIRkLkEKQCVkDDjgeIO92wr34XKmKfFc9fohgTCjZBTcqHHeP67owPIFMWoRkhk0hhVpy-G8X6FhvADJXhF_gMj2cStBALrdg4A) |
+| 2021 | Acta Auto. Sin. | Deep domain adaptation | DL | Deep Domain Adaptation: General and Complex Cases | [Link]([https://kns.cnki.net/kcms2/article/abstract?v=rr6VKxMbACpaXeZTFzm2FijKjeIj5NIfMFnEL597x2oDiAUQlTFLrb34BeFvCg9kgWwXeReb9JW6tNogI_cqIRkLkEKQCVkDDjgeIO92wr34XKmKfFc9fohgTCjZBTcqHHeP67owPIFMWoRkhk0hhVpy-G8X6FhvADJXhF_gMj2cStBALrdg4A](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200238?viewType=HTML)) |
 | 2024 | IEEE TNNLS | Transfer adaptation learning | DL | Transfer Adaptation Learning: A Decade Survey | [Link](https://doi.org/10.1109/TNNLS.2022.3183326) |
 
 -----
@@ -252,4 +252,5 @@ If you find this work helpful for your research, please kindly consider citing o
 
   - **Concept:** Embedding electromagnetic scattering models into DNNs.
   - **Key Works:** [EMI-Net](https://doi.org/10.1109/TGRS.2024.3362334), [EMWaveNet](https://www.google.com/search?q=https://doi.org/10.1109/TGRS.2025.3557705), [Physics Inspired Hybrid Attention](https://doi.org/10.1016/j.isprsjprs.2023.12.004).
+
 
