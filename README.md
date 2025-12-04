@@ -74,7 +74,7 @@ If you find this work helpful for your research, please kindly consider citing o
 | 2024 | IEEE Jstar | ship detection | Tradition+DL | Ship detection with SAR C-Band satellite images: A systematic review | [Link](https://ieeexplore.ieee.org/abstract/document/10620443/) |
 | 2025 | IEEE Jstar | detection and classification | DL | Recent Advances in Deep Learning based SAR Image Targets Detection and Recognition | [Link](https://ieeexplore.ieee.org/abstract/document/10892079/) |
 | 2025 | IEEE Jstar | dual perspective for detection and classification | Tradition+DL | Review of synthetic aperture radar automatic target recognition: A dual perspective on classical and deep learning techniques | [Link](https://ieeexplore.ieee.org/abstract/document/11082447/) |
-| 2025 | Ours | fifty evolution<br>of SAR ATR | Tradition+DL | Fifty Years of SAR Automatic Target Recognition The Road Forward | - |
+
 
 
 
