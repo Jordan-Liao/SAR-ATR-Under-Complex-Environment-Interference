@@ -12,7 +12,7 @@ For more details, kindly refer to our [paper].
 
 If you find this work helpful for your research, please kindly consider citing our paper:
 ```bib
-@article{liao2025dl,
+@article{liao2025deepL,
       title={Deep Learning for SAR ATR in Complex Environmental Interference: A Systematic Review},
       author={Liao, Jinrui and Wang, Qingsong and Lai, Tao and Yang, Chengran and Huang, Haifeng},
       journal={XXX (Under Review/Published)}, 
