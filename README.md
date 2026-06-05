@@ -1,6 +1,6 @@
 # **Deep Learning for SAR ATR in Complex Environmental Interference - System Review**
 
-***Jinrui Liao***, ***Qingsong Wang***, ***Tao Lai***, ***Chengran Yang***, ***Haifeng Huang***
+***Jinrui Liao***, ***Qingsong Wang***, ***Zhongling Huang***, ***Chengran Yang***, ***Tao Lai***,  ***Haifeng Huang***
 
 **This paper explores the cross-application between artificial intelligence and SAR ATR, focusing on detection and recognition tasks under two environmental interference: intricate natural scenes and electromagnetic interference.**
 
@@ -12,11 +12,11 @@ For more details, kindly refer to our [paper].
 
 If you find this work helpful for your research, please kindly consider citing our paper:
 ```bib
-@article{liao2025deepL,
+@article{liao2026deepL,
       title={Deep Learning for SAR ATR in Complex Environmental Interference: A Systematic Review},
-      author={Liao, Jinrui and Wang, Qingsong and Lai, Tao and Yang, Chengran and Huang, Haifeng},
+      author={Liao, Jinrui and Wang, Qingsong and Huang，Zhongling and Yang, Chengran, and Lai, Tao and  and Huang, Haifeng},
       journal={XXX (Under Review/Published)}, 
-      year={2025},
+      year={2026},
       url={}, 
       doi={}
 }
@@ -28,6 +28,7 @@ If you find this work helpful for your research, please kindly consider citing o
   - [**SAR Target Datasets**](#sar-target-datasets)
       - [SAR Target Classification Datasets](#sar-target-classification-datasets)
       - [SAR Target Detection Datasets](sar-target-detection-datasets)
+      - [SAR Interference Datasets](#sar-interference-datasets)
   - [**SAR Target Detection**](sar-target-detection)
       - [Traditional Methods](#traditional-methods)
       - [Deep Learning Methods](#deep-learning-methods)
@@ -38,6 +39,7 @@ If you find this work helpful for your research, please kindly consider citing o
   - [**Complex Background Interference**](#complex-background-interference)
       - [Electromagnetic Scattering Interference](#electromagnetic-scattering-interference)
           - [Suppression Jamming](#suppression-jamming)
+          - [Mutual RFI Between SAR Satellites](#mutual-rfi-between-sar-satellites)
           - [Deception Jamming](#deception-jamming)
   - [**Anti-Jamming & Robustness Methods**](#anti-jamming-robustness-methods)
       - [Adversarial Attacks in SAR](#adversarial-attacks-in-sar)
@@ -121,6 +123,12 @@ If you find this work helpful for your research, please kindly consider citing o
 | 2024 | **SARDet-100K** | 6 | 512 | 0.1\~25 | Multi | Large-scale COCO level | [Link](https://arxiv.org/abs/2403.10755) |
 | 2025 | **RSAR** | 6 | 512 | 0.1\~25 | Multi | Large-scale Rotated detection | [Link](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_RSAR_Restricted_State_Angle_Resolver_and_Rotated_SAR_Benchmark_CVPR_2025_paper.html) |
 
+## SAR Interference Datasets
+
+| Year | Dataset | Task | Size | Band | Note | Link |
+|:---:|:---|:---:|:---:|:---:|:---|:---|
+| 2025 | **SIDS** | Interference Detection/Suppression | - | - | SAR images for interference detection and suppression | [Link](https://radars.ac.cn/web/data/getData?dataType=SAR-IIDS) |
+
 -----
 
 # **SAR Target Detection**
@@ -131,7 +139,7 @@ If you find this work helpful for your research, please kindly consider citing o
 |:---:|:---:|:---|:---:|:---|:---|
 | 2004 | IEEE TGRS | Noise radar jamming | Tradition | Noise radar using random phase and frequency modulation | [Link](https://doi.org/10.1109/TGRS.2004.834589) |
 | 2017 | IGARSS | Single-stage ship det. | Tradition/CNN | A fully convolutional neural network for low-complexity... | [Link](https://doi.org/10.1109/IGARSS.2017.8127094) |
-| 2019 | J. Radars | ISRJ Suppression | Tradition | Identification and Suppression of ISRJ in Time-Frequency Domain | [Link](https://doi.org/10.12000/JR18080) |
+| 2019 | J. Radars | ISRJ Suppression | Tradition | Time-frequency analysis techniques for recognition and suppression of interrupted sampling repeater jamming | [Link](https://doi.org/10.12000/JR18080) |
 
 ## Deep Learning Methods for SAR Target Detection
 
@@ -203,9 +211,17 @@ If you find this work helpful for your research, please kindly consider citing o
 |:---:|:---:|:---|:---|:---|
 | 2004 | IEEE TGRS | Noise Radar | Random Phase/Freq Mod. | [Link](https://doi.org/10.1109/TGRS.2004.834589) |
 | 2018 | IEEE TGRS | Target Recon. | DSA (Dynamic SA) | [Link](https://doi.org/10.1109/TGRS.2017.2744178) |
-| 2022 | IEEE TGRS | LFM Interference | **2-D SPECAN** | [Link](https://doi.org/10.1109/TGRS.2021.3132495) |
-| 2022 | IEEE TGRS | RFI Suppression | **BSF** (Block Subspace) | [Link](https://doi.org/10.1109/TGRS.2021.3096538) |
-| 2019 | J. Radars | ISRJ | Time-Frequency Filter | [Link](https://doi.org/10.12000/JR18080) |
+| 2022 | IEEE TGRS | LFM Interference | **2-D SPECAN**: Two-Dimensional Spectral Analysis Filter for LFM Interference Removal | [Link](https://doi.org/10.1109/TGRS.2021.3132495) |
+| 2022 | IEEE TGRS | Narrow/Wideband RFI | **BSF**: Block Subspace Filter for RFI Artifacts | [Link](https://doi.org/10.1109/TGRS.2021.3096538) |
+| 2019 | J. Radars | ISRJ | Time-Frequency Analysis for Recognition and Suppression | [Link](https://doi.org/10.12000/JR18080) |
+
+### Mutual RFI Between SAR Satellites
+
+| Year | Venue | Topic | Reference Title | Link |
+|:---:|:---:|:---|:---|:---|
+| 2021 | IEEE TGRS | Spaceborne SAR Mutual Interference | On the Mutual Interference Between Spaceborne SARs: Modeling, Characterization, and Mitigation | [Link](https://doi.org/10.1109/TGRS.2020.3036635) |
+| 2022 | IEEE TGRS | GaoFen-3/Sentinel-1A Mutual RFI | Observation and Mitigation of Mutual RFI Between SAR Satellites: A Case Study Between Chinese GaoFen-3 and European Sentinel-1A | [Link](https://doi.org/10.1109/TGRS.2022.3170363) |
+| 2024 | IEEE TGRS | Sentinel-1A Ultrawideband Mutual RFI | Ultrawideband Mutual RFI Mitigation Between SAR Satellites: From the Perspective of European Sentinel-1A | [Link](https://doi.org/10.1109/TGRS.2024.3501309) |
 
 ### Deception Jamming
 
