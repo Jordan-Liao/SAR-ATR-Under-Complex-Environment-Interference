@@ -7,7 +7,7 @@
 
 ****
 
-For more details, kindly refer to our [paper].
+For more details, kindly refer to our [[paper](https://ieeexplore.ieee.org/document/11569752)].
 
 ## :books: Citation 
 
