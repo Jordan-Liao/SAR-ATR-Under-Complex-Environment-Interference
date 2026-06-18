@@ -2,6 +2,7 @@
 
 ***Jinrui Liao***, ***Qingsong Wang***, ***Zhongling Huang***, ***Chengran Yang***, ***Tao Lai***,  ***Haifeng Huang***
 
+**随着遥感卫星的持续发射以及智能化时代对数据日益增长的需求，当前用于SAR自动目标识别（ATR）的公开数据集在规模与类型上不断丰富，同时呈现出场景背景日趋复杂、电磁干扰愈加显著的特点。鉴于近年来复杂背景SAR数据集的陆续开放以及新型抗干扰智能算法的不断涌现，本文对该领域的相关研究进展进行了系统梳理与及时跟进，旨在为复杂背景下SAR目标检测与识别研究的深入推进提供参考。此外，本文还对计算机视觉领域中若干前沿目标检测方法进行了简要介绍，这些方法具有较强的迁移潜力，有望为SAR图像中点状目标的智能化检测与识别提供新的思路与启发。**
 **This paper explores the cross-application between artificial intelligence and SAR ATR, focusing on detection and recognition tasks under two environmental interference: intricate natural scenes and electromagnetic interference.**
 
 ****
@@ -12,15 +13,16 @@ For more details, kindly refer to our [paper].
 
 If you find this work helpful for your research, please kindly consider citing our paper:
 ```bib
-@article{liao2026deepL,
-      title={Deep Learning for SAR ATR in Complex Environmental Interference: A Systematic Review},
-      author={Liao, Jinrui and Wang, Qingsong and Huang，Zhongling and Yang, Chengran, and Lai, Tao and  and Huang, Haifeng},
-      journal={XXX (Under Review/Published)}, 
-      year={2026},
-      url={}, 
-      doi={}
-}
-````
+@ARTICLE{liaoDL2026,
+  author={Liao, Jinrui and Wang, Qingsong and Huang, Zhongling and Yang, Chengran and Lai, Tao and Huang, Haifeng},
+  journal={IEEE Geoscience and Remote Sensing Magazine}, 
+  title={Deep Learning for Synthetic Aperture Radar Automatic Target Recognition in Complex Environmental Interference: A review}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={2-49},
+  doi={10.1109/MGRS.2026.3697019}}
+```
 
 # Table of Contents
 
