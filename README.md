@@ -3,6 +3,7 @@
 ***Jinrui Liao***, ***Qingsong Wang***, ***Zhongling Huang***, ***Chengran Yang***, ***Tao Lai***,  ***Haifeng Huang***
 
 **随着遥感卫星的持续发射以及智能化时代对数据日益增长的需求，当前用于SAR自动目标识别（ATR）的公开数据集在规模与类型上不断丰富，同时呈现出场景背景日趋复杂、电磁干扰愈加显著的特点。鉴于近年来复杂背景SAR数据集的陆续开放以及新型抗干扰智能算法的不断涌现，本文对该领域的相关研究进展进行了系统梳理与及时跟进，旨在为复杂背景下SAR目标检测与识别研究的深入推进提供参考。此外，本文还对计算机视觉领域中若干前沿目标检测方法进行了简要介绍，这些方法具有较强的迁移潜力，有望为SAR图像中点状目标的智能化检测与识别提供新的思路与启发。**
+
 **This paper explores the cross-application between artificial intelligence and SAR ATR, focusing on detection and recognition tasks under two environmental interference: intricate natural scenes and electromagnetic interference.**
 
 ****
