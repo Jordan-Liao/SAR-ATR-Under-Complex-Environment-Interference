@@ -8,22 +8,6 @@
 
 ****
 
-For more details, kindly refer to our [[paper](https://ieeexplore.ieee.org/document/11569752)].
-
-## :books: Citation 
-
-If you find this work helpful for your research, please kindly consider citing our paper:
-```bib
-@ARTICLE{liaoDL2026,
-  author={Liao, Jinrui and Wang, Qingsong and Huang, Zhongling and Yang, Chengran and Lai, Tao and Huang, Haifeng},
-  journal={IEEE Geoscience and Remote Sensing Magazine}, 
-  title={Deep Learning for Synthetic Aperture Radar Automatic Target Recognition in Complex Environmental Interference: A review}, 
-  year={2026},
-  volume={},
-  number={},
-  pages={2-49},
-  doi={10.1109/MGRS.2026.3697019}}
-```
 
 # Table of Contents
 
